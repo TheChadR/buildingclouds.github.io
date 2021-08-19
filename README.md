@@ -1,2 +1,2 @@
-# buildingclouds.git.io
+# buildingclouds.github.io
 Building Clouds Github Repo for Github Pages
